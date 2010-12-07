@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.7
-Release:	%mkrel 11
+Release:	%mkrel 12
 Summary:	Retrieve and return information of database result sets
 License:	PHP License
 Group:		Development/PHP
